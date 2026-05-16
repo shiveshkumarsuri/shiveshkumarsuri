@@ -1,7 +1,7 @@
 - 👋 Hi, I’m shivesh kumar
 - 👀 I’m interested in exploring latest and problem solving tech
 - 🌱 I’m currently learning some complex system design
-- 💞️ I’m looking to collaborate on mini AI projects
+- 💞️ I’m looking to collaborate on distributed systems AI projects
 - 📫 How to reach me ... - http://shiveshkumar.com
 
 <!---
